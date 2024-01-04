@@ -7,7 +7,7 @@ public class Consultation {
 	private int dateCon;
 	private String observation;
 	
-	private ArrayList<consultation> items;
+	private ArrayList<Consultation> items;
 	
 	public Consultation() {
 		super();

@@ -14,11 +14,11 @@ public class Consultation {
 		
 	}
 
-	public ArrayList<consultation> getItems() {
+	public ArrayList<Consultation> getItems() {
 		return items;
 	}
 	
-	public void ajoutItem(consultation a) {
+	public void ajoutItem(Consultation a) {
 		this.ajoutItem(a);
 	}
 
